@@ -1,15 +1,18 @@
 # ShopWise
+
 **AI plans your smartest shopping trip.**
 
-ShopWise is a GeoAI-powered shopping decision platform developed for **ASEAN GeoAI Fusion 2026**. It helps users decide **where to shop, when to go, and how to plan their shopping trip** by combining real-world location data with traffic, timing, shopping preferences, and route intelligence.
+ShopWise is a **GeoAI-powered shopping decision platform** developed for **ASEAN GeoAI Fusion 2026**. It helps users decide **where to shop, when to go, and how to plan their shopping trip** by combining real-world location data with traffic, timing, shopping preferences, and route intelligence.
 
-Team: HAO
-Reference Code: HACK_MY_069
-Hackathon: ASEAN GeoAI Fusion 2026
+**Team:** HAO  
+**Reference Code:** `HACK_MY_069`  
+**Hackathon:** ASEAN GeoAI Fusion 2026  
 
-Live Demo
+## Live Demo
 
-Web Application: https://shopwise.ai.studio
+**Web Application:** [https://shopwise.ai.studio](https://shopwise.ai.studio)
+
+---
 
 ## Problem
 
@@ -17,15 +20,17 @@ Shopping decisions involve more than choosing what to buy.
 
 Shoppers may face:
 
-* Traffic congestion
-* Crowded shopping locations
-* Poor trip timing
-* Limited parking
-* Missed promotions
-* Inefficient multi-store routes
-* Difficulty comparing nearby alternatives
+- Traffic congestion
+- Crowded shopping locations
+- Poor trip timing
+- Limited parking
+- Missed promotions
+- Inefficient multi-store routes
+- Difficulty comparing nearby alternatives
 
 Most existing tools address these factors separately. ShopWise brings them together into a single shopping decision experience.
+
+---
 
 ## Our Solution
 
@@ -37,41 +42,45 @@ ShopWise uses GeoAI and contextual information to answer three main questions:
 
 Instead of simply recommending the nearest store, ShopWise evaluates the overall shopping journey and provides an explainable recommendation.
 
+---
+
 ## Key Features
 
 ### Home
 
-* Worldwide location search using real-world place data
-* Current-location detection
-* Date and time selection for trip planning
-* ShopWise store recommendation and score
-* Traffic and shopping-condition insights
-* Best-time-to-go recommendation
-* Quick access to comparison and trip planning
-* AI-assisted shopping recommendations
+- Worldwide location search using real-world place data
+- Current-location detection
+- Date and time selection for trip planning
+- ShopWise store recommendation and score
+- Traffic and shopping-condition insights
+- Best-time-to-go recommendation
+- Quick access to comparison and trip planning
+- AI-assisted shopping recommendations
 
 ### Explore
 
-* Interactive map for discovering nearby stores and supermarkets
-* Real-world store locations
-* Location and store search
-* Time-aware store exploration
-* Store ranking based on shopping conditions
-* Explore by user preference such as fastest, balanced or quieter options
-* Smart identification of useful nearby shopping areas
+- Interactive map for discovering nearby stores and supermarkets
+- Real-world store locations
+- Location and store search
+- Time-aware store exploration
+- Store ranking based on shopping conditions
+- Preference-based exploration such as fastest, balanced, or quieter options
+- Smart identification of useful nearby shopping areas
 
 ### Plan
 
-* Create and manage shopping lists
-* Mark purchased items as completed
-* Shopping-history-based recurring item suggestions
-* Compare alternative stores
-* Import shopping lists into trip planning
-* Single-store and multi-store shopping strategies
-* Route optimisation
-* Traffic- and distance-aware trip planning
-* Estimated total shopping mission time
-* Route handoff to external navigation services where supported
+- Create and manage shopping lists
+- Mark purchased items as completed
+- Shopping-history-based recurring item suggestions
+- Compare alternative stores
+- Import shopping lists into trip planning
+- Single-store and multi-store shopping strategies
+- Route optimisation
+- Traffic- and distance-aware trip planning
+- Estimated total shopping mission time
+- Route handoff to external navigation services where supported
+
+---
 
 ## How ShopWise Works
 
@@ -92,7 +101,6 @@ User Location + Planned Time + Shopping Needs
                      |
                      v
         Explainable Recommendation
-```
 
 ## Technology
 
