@@ -3,16 +3,13 @@
 
 ShopWise is a GeoAI-powered shopping decision platform developed for **ASEAN GeoAI Fusion 2026**. It helps users decide **where to shop, when to go, and how to plan their shopping trip** by combining real-world location data with traffic, timing, shopping preferences, and route intelligence.
 
-## Project Information
+Team: HAO
+Reference Code: HACK_MY_069
+Hackathon: ASEAN GeoAI Fusion 2026
 
-| Item                | Details                 |
-| ------------------- | ----------------------- |
-| Hackathon           | ASEAN GeoAI Fusion 2026 |
-| Team Name           | HAO                     |
-| Team Reference Code | HACK_MY_069             |
-| Project             | ShopWise                |
-| Domain              | Efficiency              |
-| Platform            | Web Application         |
+Live Demo
+
+Web Application: https://shopwise.ai.studio
 
 ## Problem
 
