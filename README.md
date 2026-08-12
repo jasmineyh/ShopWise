@@ -102,6 +102,7 @@ User Location + Planned Time + Shopping Needs
                      v
         Explainable Recommendation
 
+```
 ## Technology
 
 ShopWise is developed using:
